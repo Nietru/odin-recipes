@@ -1,9 +1,23 @@
-*,
-*::before;
-*::after; {
-box-sizing: border-box;
-}
-
 body {
     color: #48164d;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 30px;
+    padding: 50px 50px;
+    background-color: grey;
+
 }
+
+h1 {
+    font-style: italic;
+    text-decoration: underline;
+}
+
+a {
+    color: #093610;
+    text-decoration: none;
+    background-color: pink;
+    line-height: 60px;
+}
+
+
